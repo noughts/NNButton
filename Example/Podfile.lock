@@ -1,0 +1,17 @@
+PODS:
+  - Colours (5.8.0)
+  - NNButton (0.1.0):
+    - Colours
+
+DEPENDENCIES:
+  - NNButton (from `../`)
+
+EXTERNAL SOURCES:
+  NNButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Colours: c186cc76afa2ca86f5ca5e68f610f9be17b48337
+  NNButton: 692a17a52b995fe172ae0fce3bd765069561bd23
+
+COCOAPODS: 0.38.2
