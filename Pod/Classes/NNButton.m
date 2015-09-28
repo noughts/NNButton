@@ -26,7 +26,7 @@
 	[super setHighlighted:highlighted];
 	
 	if (highlighted) {
-		self.backgroundColor = [_originalBackgroundColor darken:0.2];
+		self.backgroundColor = [_originalBackgroundColor darken:0.8];
 	} else {
 		self.backgroundColor = _originalBackgroundColor;
 	}

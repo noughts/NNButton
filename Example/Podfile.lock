@@ -1,7 +1,7 @@
 PODS:
-  - Colours (5.8.0)
+  - Colours (5.5.0)
   - NNButton (0.1.0):
-    - Colours
+    - Colours (= 5.5.0)
 
 DEPENDENCIES:
   - NNButton (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Colours: c186cc76afa2ca86f5ca5e68f610f9be17b48337
-  NNButton: 692a17a52b995fe172ae0fce3bd765069561bd23
+  Colours: 46a9e057659f6c811e6ff33527a8ecb9245d4459
+  NNButton: 47adb1d694fbb86693e25e9e83ec248f204c586d
 
 COCOAPODS: 0.38.2
